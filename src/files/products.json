@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"status": true,
+		"title": "Celular Samsung",
+		"description": "Samsung S23.",
+		"price": 350000,
+		"code": "1BSDASJ23",
+		"stock": 50,
+		"category": "Phone"
+	},
+	{
+		"id": 2,
+		"status": true,
+		"title": "Computadora de escritorio",
+		"description": "Computadora de escritorio para oficina.",
+		"price": 90000,
+		"code": "1OBVJSC",
+		"stock": 8,
+		"category": "Electronic"
+	},
+	{
+		"id": 3,
+		"status": true,
+		"title": "Pendrive 32gb",
+		"description": "Pendrive 32gb",
+		"price": 2000,
+		"code": "1SBOSMAC",
+		"stock": 3,
+		"category": "Other"
+	},
+	{
+		"id": 4,
+		"status": true,
+		"title": "Auriculares Gamer",
+		"description": "Auriculares Gamer PRO.",
+		"price": 12000,
+		"code": "1DSFKAA23",
+		"stock": 57,
+		"category": "Periferic"
+	}
+]
